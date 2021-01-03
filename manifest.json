@@ -1,0 +1,29 @@
+{
+   "minecraft":{
+      "version":"1.16.4",
+      "modLoaders":[
+         {
+            "id":"forge-35.1.28",
+            "primary":true
+         }
+      ]
+   },
+   "manifestType":"minecraftModpack",
+   "manifestVersion":1,
+   "name":"daves-lab",
+   "version":"1.0",
+   "author":"Slurp Space",
+   "files":[
+      {
+         "projectID":0,
+         "fileID":0,
+         "required":true
+      },
+      {
+         "projectID":1,
+         "fileID":1,
+         "required":true
+      }
+   ],
+   "overrides":"overrides"
+}
